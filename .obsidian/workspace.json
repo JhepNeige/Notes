@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69e85985a3a7c427",
+        "id": "5873992d212f0664",
         "type": "tabs",
         "children": [
           {
-            "id": "aeb49c892a6f8000",
+            "id": "1a095d5c60b89d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -168,9 +169,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "aeb49c892a6f8000",
+  "active": "1a095d5c60b89d77",
   "lastOpenFiles": [
-    "créez un lien.md",
-    "Tableau de bord.md"
+    "Tableau de bord.md",
+    "créez un lien.md"
   ]
 }
