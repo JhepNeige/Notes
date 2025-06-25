@@ -25,3 +25,4 @@ Aime ton ennemi & fraternise dans ton propre intérêt
 Pas un paragraphe :
 	prst
 	le bon degré de paternalisme dans la loi
+	animaux
