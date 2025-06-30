@@ -3,13 +3,10 @@ Les questions glandulaires
 La sainte coopération (+ le sacré sans théisme)
 	sont sacrés = la bouffe, le fric, le savoir, la biodiversité. pas la vie humaine ? ça rend la question de l'avrt difficile
 La morale de la crise
-Wikimorals
-	On sera pas d'accord mais on saura ce que pensent les autres 
-	Peut on faire un arbre plus qu'un réseau ?
 L'obligation de rationalité
 	attention à la crispation
 As-tu testé l'alternative ?
-La liberté individuelle, arguments pour, anti-élitisme
+La liberté individuelle, arguments pour, le bon degré de paternalisme dans la loi
 [[Bonheur]] : faut-il se donner un but ? 
 Ecologie
 Les inégalités, la justice
@@ -27,7 +24,7 @@ Aime ton ennemi & fraternise dans ton propre intérêt
 
 Pas un paragraphe :
 	prst
-	le bon degré de paternalisme dans la loi
+	 anti-élitisme
 	animaux
 	la punition, faire amende
 	"ah ouai ???" / "c'est ça alors ?"
