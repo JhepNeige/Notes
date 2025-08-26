@@ -4,9 +4,10 @@ La sainte coopération (+ le sacré sans théisme)
 	sont sacrés = la bouffe, le fric, le savoir, la biodiversité. pas la vie humaine ? ça rend la question de l'avrt difficile
 	coopérer avec A peut empêcher de coopérer avec B, la démocratie s'invite dans le problème. 
 La morale de la crise
-	se préparer à se sacrifier
+	se préparer à se sacrifier et accepter le sacrifice d'un autre pour soi
 L'obligation de rationalité
 	attention à la crispation
+	deux rationalités
 As-tu testé l'alternative ?
 La liberté individuelle, arguments pour, le bon degré de paternalisme dans la loi
 Démocratie
@@ -14,7 +15,7 @@ Démocratie
 [[Bonheur]] : faut-il se donner un but ? 
 Ecologie
 Les inégalités, la justice
-	Le commerce comme trait naturel est un mensonge : on peut donner contre seulement l'espoir de retour
+	Le commerce comme trait naturel est un mensonge : on peut donner contre seulement (la promesse cosmique) l'espoir confiant de retour
 Wikiprogramme et la moyennisation
 Plomber le pouvoir de l'argent, de l'héritage
 	sobriété
