@@ -20,33 +20,8 @@
               "icon": "lucide-file",
               "title": "Tableau de bord.txt"
             }
-          },
-          {
-            "id": "c8ce944ef4d21da0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
-            "id": "a496283d3d5e4ca0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:Créer une nouvelle base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
@@ -195,12 +170,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a496283d3d5e4ca0",
+  "active": "1a095d5c60b89d77",
   "lastOpenFiles": [
+    "nouveau tableau de bord.txt",
+    "La propriété.md",
+    "Tableau de bord.txt.md",
     "grosse rédaction.txt",
     "Bonheur.md",
-    "Tableau de bord.txt.md",
-    "La propriété.md",
     "créez un lien.md"
   ]
 }

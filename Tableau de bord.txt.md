@@ -12,7 +12,6 @@ As-tu testé l'alternative ?
 La liberté individuelle, arguments pour, le bon degré de paternalisme dans la loi
 Démocratie
 	solution : le PMU
-[[Bonheur]] : faut-il se donner un but ? 
 Ecologie
 Les inégalités, la justice
 	Le commerce comme trait naturel est un mensonge : on peut donner contre seulement (la promesse cosmique) l'espoir confiant de retour
@@ -34,3 +33,4 @@ Pas un paragraphe :
 	la punition, faire amende
 	"ah ouai ???" / "c'est ça alors ?"
 	l'esprit critique, le bayesianisme
+	[[Bonheur]] : faut-il se donner un but ? 
